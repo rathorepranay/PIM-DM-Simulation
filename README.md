@@ -148,6 +148,12 @@ This simulator helps visualize and understand:
 - Dynamic protocol adaptation
 - Network bandwidth optimization techniques
 
-## License
+## Output
+**Flood:**
+<img width="1103" height="582" alt="Screenshot 2026-05-04 155903" src="https://github.com/user-attachments/assets/461badbb-6a91-41ec-812a-4490ef556136" />
+**Prune:**
+<img width="1097" height="567" alt="Screenshot 2026-05-04 160012" src="https://github.com/user-attachments/assets/17d5b353-9ce2-447d-97cf-9337ed1dc650" />
+**Graft:**
+<img width="1101" height="572" alt="Screenshot 2026-05-04 160126" src="https://github.com/user-attachments/assets/9c2e62bd-0bab-4fea-9616-3abfbb3b592c" />
 
-Open source educational software
+
